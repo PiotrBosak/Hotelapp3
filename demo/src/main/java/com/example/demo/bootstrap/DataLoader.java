@@ -1,6 +1,6 @@
 package com.example.demo.bootstrap;
 
-import com.example.demo.repositories.buildings.HotelRepository;
+import com.example.demo.data.repositories.buildings.HotelRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
